@@ -5,4 +5,11 @@ This project provides an automated system for generating objective evaluation qu
 
 ## Features
 Automated generation of objective evaluation questions  
-Use of Wordnet and Sense2Vec to create distractions and produce query options
+Use of Wordnet and Sense2Vec to create distractions and produce query options  
+Efficient in both time and money for educational organizations  
+Encourages practice and self-evaluation for students
+
+## Requirements
+Python 3.x  
+Wordnet  
+Sense2Vec
