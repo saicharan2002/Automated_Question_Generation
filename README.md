@@ -19,3 +19,6 @@ Encourages practice and self-evaluation for students
 Python 3.x  
 Wordnet  
 Sense2Vec
+T5  
+Gpt-2  
+Bert  
