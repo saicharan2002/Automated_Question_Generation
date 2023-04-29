@@ -5,3 +5,4 @@ This project provides an automated system for generating objective evaluation qu
 
 ## Features
 Automated generation of objective evaluation questions
+Use of Wordnet and Sense2Vec to create distractions and produce query options
